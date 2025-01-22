@@ -55,7 +55,7 @@
 ## 1. 전체 요약
 
 <p align="center">
-	<img width="70%" src="https://github.com/user-attachments/files/18500821/2023._SDR.A3.pdf">
+	<img width="70%" src="https://github.com/user-attachments/assets/ed9e0b32-6f5f-4fb9-aeae-14633fd651cf">
 </p>
 
 ## 2. 소프트웨어 구상
