@@ -52,10 +52,16 @@
 
 # 아키텍쳐
 
-## 1. 전체 서비스 아키텍쳐
+## 1. 소프트웨어 구상
 
 <p align="center">
-	<img width="70%" src="https://github.com/user-attachments/assets/9d9c5db8-daed-419d-82c2-e3f400aa4df6">
+	<img width="70%" src="https://github.com/user-attachments/assets/be6d2c6d-9b48-465b-9720-f6c60dd41a3e">
+</p>
+
+## 2. 하드웨어 구상
+
+<p align="center">
+	<img width="70%" src="https://github.com/user-attachments/assets/be6d2c6d-9b48-465b-9720-f6c60dd41a3e">
 </p>
 
 ----------------------------------------
