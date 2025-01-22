@@ -52,23 +52,25 @@
 
 # 아키텍쳐
 
-## 1. 소프트웨어 구상
+## 1. 전체 요약
+
+<p align="center">
+	<img width="70%" src="https://github.com/user-attachments/files/18500821/2023._SDR.A3.pdf">
+</p>
+
+## 2. 소프트웨어 구상
 
 <p align="center">
 	<img width="70%" src="https://github.com/user-attachments/assets/be6d2c6d-9b48-465b-9720-f6c60dd41a3e">
 </p>
 
-## 2. 하드웨어 구상
+## 3. 하드웨어 구상
 
 <p align="center">
 	<img width="70%" src="https://github.com/user-attachments/assets/ae009ad9-7ac0-44af-95ad-b2e1ce7e91ba">
 </p>
 
-## 3. Slam 결과
 
-<p align="center">
-	<img width="70%" src="https://github.com/user-attachments/assets/476d60ee-6810-4c5d-8f77-36def1f9aabd">
-</p>
 
 ----------------------------------------
 
