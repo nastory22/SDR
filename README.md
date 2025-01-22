@@ -35,18 +35,17 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/json-000000?style=plastic&logo=json&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
           <br/>
-	<img src="https://img.shields.io/badge/unity-FFFFFF?style=plastic&logo=Unity&logoColor=white">
-         <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-       <img src="https://img.shields.io/badge/YOLO-A8B9CC?style=plastic&logo=YOLO&logoColor=white">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+         <img src="https://img.shields.io/badge/ros-22314E?style=plastic&logo=ros&logoColor=white">
+          <img src="https://img.shields.io/badge/raspberrypi-A22846?style=plastic&logo=raspberrypi&logoColor=white">
+       <img src="https://img.shields.io/badge/arduino-00878F?style=plastic&logo=arduino&logoColor=white">
         
-
-        
+    
         
 
 ----------------------------------------
