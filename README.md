@@ -55,19 +55,19 @@
 ## 1. 전체 요약
 
 <p align="center">
-	<img width="70%" src="https://github.com/user-attachments/assets/ed9e0b32-6f5f-4fb9-aeae-14633fd651cf">
+	<img width="60%" height="70%" src="https://github.com/user-attachments/assets/ed9e0b32-6f5f-4fb9-aeae-14633fd651cf">
 </p>
 
 ## 2. 소프트웨어 구상
 
 <p align="center">
-	<img width="70%" src="https://github.com/user-attachments/assets/be6d2c6d-9b48-465b-9720-f6c60dd41a3e">
+	<img width="50%" height="40%" src="https://github.com/user-attachments/assets/be6d2c6d-9b48-465b-9720-f6c60dd41a3e">
 </p>
 
 ## 3. 하드웨어 구상
 
 <p align="center">
-	<img width="70%" src="https://github.com/user-attachments/assets/ae009ad9-7ac0-44af-95ad-b2e1ce7e91ba">
+	<img width="50%" height="40%" src="https://github.com/user-attachments/assets/ae009ad9-7ac0-44af-95ad-b2e1ce7e91ba">
 </p>
 
 
