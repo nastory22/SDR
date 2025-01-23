@@ -44,7 +44,7 @@ std_msgs::Int16 left_wheel_tick_count;
 ros::Publisher leftPub("left_ticks", &left_wheel_tick_count);
  
 // Time interval for measurements in milliseconds
-const int interval = 40;
+const int interval = 50;
 long previousMillis = 0;
 long currentMillis = 0;
  
