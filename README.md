@@ -39,19 +39,7 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
-          <br/>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-         <img src="https://img.shields.io/badge/ros-22314E?style=plastic&logo=ros&logoColor=white">
-          <img src="https://img.shields.io/badge/raspberrypi-A22846?style=plastic&logo=raspberrypi&logoColor=white">
-       <img src="https://img.shields.io/badge/arduino-00878F?style=plastic&logo=arduino&logoColor=white">
-        
-    
-        
-
-----------------------------------------
-
-# 아키텍쳐
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=L처
 
 ## 1. 전체 요약
 
